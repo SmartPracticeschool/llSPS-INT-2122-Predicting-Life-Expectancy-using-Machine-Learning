@@ -11,4 +11,6 @@ I have use the WHO's Dataset
 
 # **How to run the project** 
 
- Click on this [link](https://node-red-xlvvp.eu-gb.mybluemix.net/ui) to go to the webpage where you can provide your inputs and get your output.
+ Click on this link: 
+ [Run Project](https://node-red-xlvvp.eu-gb.mybluemix.net/ui) 
+ to go to the webpage where you can provide your inputs and get your output.
